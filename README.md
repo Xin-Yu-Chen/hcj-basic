@@ -10,9 +10,9 @@
 - js demo
 - static site cases
 
-## features
+## update
 
-1. 笔记、演示相结合  
+1. ...  
 
 ## contact me
 
